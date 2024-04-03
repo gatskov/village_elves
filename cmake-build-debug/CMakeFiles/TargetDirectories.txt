@@ -1,0 +1,3 @@
+C:/Users/sarse/CLionProjects/Village_Elves/cmake-build-debug/CMakeFiles/Village_Elves.dir
+C:/Users/sarse/CLionProjects/Village_Elves/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sarse/CLionProjects/Village_Elves/cmake-build-debug/CMakeFiles/rebuild_cache.dir
